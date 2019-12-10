@@ -1,0 +1,3 @@
+Bundle-Name: Layout URL Indexer
+Bundle-SymbolicName: com.github.lgdd.liferay.indexerpostprocessor.layout
+Bundle-Version: 1.0.0
